@@ -1,0 +1,2 @@
+# Eslab-qilaman
+Eslab qibkormoqchiman
